@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Abraham Kuranga
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,12 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
-  alt: Hero Image for home page
+  src: /img/herodoctor2.jpg
+  alt: Dr. Abraham Kuranga
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: At A Touch of Energy Aesthetics, Dr. Abraham Kuranga and his
+  team provide a range of medical spa and wellness services.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +32,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+At A Touch of Energy Aesthetics, Dr. Abraham Kuranga and his team provide a range of medical spa and wellness services. For example, the Cincinnati-based medspa offers state-of-the-art radio frequency microneedling, Botox, and laser therapy, as well as liposuction and other minimally invasive body-sculpting procedures. Dr. Abraham Kuranga’s extensive experience qualifies him to provide a variety of treatments. At A Touch of Energy Aesthetics, they provide holistic services like acupuncture, gua sha and Reiki.

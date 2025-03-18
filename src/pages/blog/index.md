@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Dr. Abraham Kuranga, M.D. is a double board-certified physician
+  specializing in internal medicine, pediatrics and aesthetics. Dr. K provides
+  minimally ...
 published: true
 schemaType: WebPage
 header: Blog
